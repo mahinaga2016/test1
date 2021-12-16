@@ -1,2 +1,2 @@
 #!/bin/bash
-yum install vsftp -y
+/usr/bin/yum install vsftpd -y
