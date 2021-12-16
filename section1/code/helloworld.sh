@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/naga123
+yum install vsftp -y
