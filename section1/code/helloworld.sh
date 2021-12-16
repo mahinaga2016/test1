@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/yum install vsftpd -y
+mkdir /tmp/rrrr
